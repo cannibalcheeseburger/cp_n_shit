@@ -4,6 +4,10 @@
 
 Okay ;_;
 
+# Types
+
+ - [Arrays](Array/README.md)
+
 ### Contact / Social Media
 
 <a href = "https://www.github.com/cannibalcheeseburger/">
