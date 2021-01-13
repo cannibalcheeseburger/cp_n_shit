@@ -4,6 +4,8 @@
 
 Okay ;_;
 
+[ok](https://drive.google.com/file/d/1AQmlypi_VPrE2Oj7OHEOoEFrBmJfMHbu/view)
+
 # Types
 
  - [Arrays](Array/README.md)
