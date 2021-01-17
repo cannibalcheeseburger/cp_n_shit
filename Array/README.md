@@ -13,12 +13,12 @@
 11. [find duplicate in an array of N+1 Integers](duplicate.cpp)
 12. [Merge 2 sorted arrays without using Extra space.](merge.cpp)
 13. [Kadane's Algo [V.V.V.V.V IMP]](maxsum.cpp)
-14. [Merge Intervals]
-15. [Next Permutation]
+14. [Merge Intervals](intervals.cpp)
+15. [Next Permutation](nextperm.cpp)
 16. [Count Inversion]
-17. [Best time to buy and Sell stock]
+17. [Best time to buy and Sell stock](stocks.cpp)
 18. [find all pairs on integer array whose sum is equal to given number]
-19. [find common elements In 3 sorted arrays]
+19. [find common elements In 3 sorted arrays](common.cpp)
 20. [Rearrange the array in alternating positive and negative items with O(1) extra space]
 21. [Find if there is any subarray with sum equal to 0]
 22. [Find factorial of a large number]
