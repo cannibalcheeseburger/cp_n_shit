@@ -19,8 +19,8 @@
 17. [Best time to buy and Sell stock](stocks.cpp)
 18. [find all pairs on integer array whose sum is equal to given number]
 19. [find common elements In 3 sorted arrays](common.cpp)
-20. [Rearrange the array in alternating positive and negative items with O(1) extra space]
-21. [Find if there is any subarray with sum equal to 0]
+20. [Rearrange the array in alternating positive and negative items with O(1) extra space](alternate.cpp)
+21. [Find if there is any subarray with sum equal to 0](sumzero.cpp)
 22. [Find factorial of a large number]
 23. [find maximum product subarray ]
 24. [Find longest coinsecutive subsequence]
