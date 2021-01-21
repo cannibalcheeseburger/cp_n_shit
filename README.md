@@ -9,6 +9,7 @@ Okay ;_;
 # Types
 
  - [Arrays](Array/README.md)
+ - [Matrix](Matrix/README.md)
 
 ### Contact / Social Media
 
