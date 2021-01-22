@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-Okay ;_;
+Okay ;_; added some stuff dats ...
 
 [ok](https://drive.google.com/file/d/1AQmlypi_VPrE2Oj7OHEOoEFrBmJfMHbu/view)
 
